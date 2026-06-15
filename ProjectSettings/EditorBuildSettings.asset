@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/new_home_scene.unity
+    guid: 78a305be96a553f4b8277cc2ed8fdb7c
+  - enabled: 1
+    path: Assets/Scenes/UserInfo.unity
+    guid: aeb626a7b22bf674199203e2b59f9028
+  - enabled: 1
+    path: Assets/Scenes/RegisterScene.unity
+    guid: fd8836269ce5fb54597b260d67a90bac
+  - enabled: 1
+    path: Assets/Scenes/LoginScene.unity
+    guid: 3605c29479f62654094572345bb59dd7
+  - enabled: 1
+    path: Assets/Scenes/LoginScene.unity
+    guid: 3605c29479f62654094572345bb59dd7
+  - enabled: 1
+    path: Assets/Scenes/new_home_scene_user.unity
+    guid: 29efa5bc156d26f4bb4cd3aeb037ca53
+  - enabled: 1
+    path: Assets/Scenes/ManageClassScene.unity
+    guid: 779214f75f24c8843a31cd674f271fca
+  - enabled: 1
+    path: Assets/Scenes/CreateClassScene.unity
+    guid: f563b4ace0f4cad41ae1f30357cd274f
+  - enabled: 1
+    path: Assets/Scenes/CreateLessonScene.unity
+    guid: 6f3a09835ad326243bf1089c1f5d44b1
+  - enabled: 1
+    path: Assets/Scenes/AddFileLessonScene.unity
+    guid: c164844299f23d04abd433c9cfc393c6
+  - enabled: 1
+    path: Assets/Scenes/ShowLessonScene.unity
+    guid: 255df25f9f2207c4898bead3d86f28aa
+  - enabled: 1
+    path: Assets/Scenes/PdfViewerScene.unity
+    guid: b7892eecf6d503249a109d453c89e226
+  - enabled: 1
+    path: Assets/Scenes/LessonInClass.unity
+    guid: abd1d81195e4c714da0376a7c869acef
+  - enabled: 1
+    path: Assets/Scenes/CreateExerciseScene.unity
+    guid: b3b7ad89493065b49988137b68b64f47
+  - enabled: 1
+    path: Assets/Scenes/DoExerciseScene.unity
+    guid: 1e0f659837082e941a6391b10791c05e
+  - enabled: 1
+    path: Assets/Scenes/ModelListScene.unity
+    guid: 51d27b2c3e6471b4d9197f77d31d862e
+  - enabled: 1
+    path: Assets/Scenes/3DViewerScene.unity
+    guid: 0a60ec2cd0760234889280ac46d95bee
+  - enabled: 1
+    path: Assets/Scenes/ArViewerScene.unity
+    guid: 1fdaa67673fba5f43aef6714243a0e79
+  - enabled: 1
+    path: Assets/Scenes/VideoViewScene.unity
+    guid: cd7c66acf69b9814f99b8080479b60f5
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 32ce021a77626ca47822571953357c3c, type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: e62d753e0e75f5b46a3c89fb8f65813a, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 7f70ac875a98df747ad783cedd7f19ca, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: efd297ff12fd35442ab7f0eb694a7c86, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 03284b37d39c7b0498b9064e9c393c15, type: 2}
+  m_UseUCBPForAssetBundles: 0

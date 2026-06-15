@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "770601229175",
+    "project_id": "virtual-education-d056a",
+    "storage_bucket": "virtual-education-d056a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770601229175:android:f8aef2c7f12be5a9f55f72",
+        "android_client_info": {
+          "package_name": "com.virtualeducation.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770601229175-8dqgjdoko5fjstdqu917uetki9fjkevq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.virtualeducation.app",
+            "certificate_hash": "8df25d53bbfeb8cb595588a670e9a826894704a0"
+          }
+        },
+        {
+          "client_id": "770601229175-l7cmu917a3ooe02d3mvfofs3tg6sqnvc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRtHpNOjmil_vM4wcumVpOZsi6OTXM0Mo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "770601229175-l7cmu917a3ooe02d3mvfofs3tg6sqnvc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
